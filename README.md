@@ -1,3 +1,5 @@
+> **Archived (2026-11-16).** This is a personal, unmaintained fork (`axelquack/big-bear-casaos`). It is not the official Big Bear CasaOS App Store. The registered parent `toricorn/big-bear-casaos` is stale. This repository was archived after Axel's decision on 2026-11-16 (09:25 Berlin): "Archive".
+
 <img src="https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/images/logo.png" width="300" alt="Big Bear CasaOS App Store">
 
 ## Big Bear CasaOS App Store
